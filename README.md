@@ -21,6 +21,6 @@ This project analyzes supply chain performance to identify operational inefficie
 - Provided insights to reduce defects and improve operational efficiency
 - Enabled data-driven decisions for inventory, production, and supply chain management
 
-## Files
+## Project Files
 - Supply_Chain_Analysis.pptx – Project presentation and dashboard explanation
 - Supply_Chain_Analysis_Report.pdf – Detailed project report including methodology, analysis, and insights
