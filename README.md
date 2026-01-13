@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyzes supply chain performance to identify operational inefficiencies, optimize costs, and improve overall logistics and quality performance. The dashboard provides an interactive view of key supply chain metrics, enabling data-driven decision-making.
 
+## Dashboard Preview
+
+![Supply Chain Dashboard](Dashboard.png)
+
 ## Key Metrics & Insights
 - *Revenue Contribution by Product Category:* Shows which product categories generate the most revenue.
 - *Logistics Share by Transport Mode:* Visualizes deliveries via Air, Road, Rail, and Sea.
